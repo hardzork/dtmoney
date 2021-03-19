@@ -21,7 +21,7 @@ createServer({
         {
           id: 2,
           title: "Aluguel APTO",
-          amount: 15500,
+          amount: 1500,
           type: "withdraw",
           category: "Casa",
           createdAt: new Date("2021-02-01 12:00:00"),
